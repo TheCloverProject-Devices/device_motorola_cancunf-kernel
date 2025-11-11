@@ -1,0 +1,18 @@
+#+TITLE: Kernel Prebuilts for Motorola G54 5G
+
+* Table of contents
+:PROPERTIES:
+:TOC:
+:END:
+:CONTENTS:
+- [[#about][About]]
+- [[#source][Source]]
+:END:
+
+* About
+
+This is a repository that holds the kernel prebuilts for the Motorola G54 5G.
+
+* Source
+
+These prebuilts are built from [[https://github.com/cyberknight777/dragonheart_kernel_motorola_cancunf][DragonHeart Kernel]].
